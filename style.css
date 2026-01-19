@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url("/img/mapa.jpg");
+    background-image: url("./img/mapa.jpg");
     /* IMAGEM DO FUNDO */
     background-size: cover;
     /* TAMANHO DO FUNDO */
